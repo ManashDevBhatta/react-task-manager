@@ -3,14 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ManashDevBhatta.github.io/react-task-manager/",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
