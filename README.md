@@ -1,8 +1,24 @@
-# React + Vite
+# TodoList - Task Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple TodoList application built with React and Vite. It allows you to add, edit, delete, and mark tasks as completed. The tasks are stored in the browser's local storage.
 
-Currently, two official plugins are available:
+## Project Structure
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/todolist.git
+   cd todolist
+   npm install
+   npm run dev
+   npm run build
+   npm run lint
+   
