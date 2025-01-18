@@ -15,9 +15,8 @@ This is a simple TodoList application built with React and Vite. It allows you t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ManashDevBhatta/react-task-manager
-.git
-   cd todolist
+   git clone https://github.com/ManashDevBhatta/react-task-manager.git
+   cd react-task-manager
    npm install
    npm run dev
    npm run build
